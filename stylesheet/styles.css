@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap');
+/*COMMON*/
+main{
+    font-family: 'Arimo', sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1197px;
+}
+
+/*MAIN*/
+.table{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    border-top: solid 28px #3A4965;
+    border-right: solid 28px #3A4965;
+    border-bottom: solid 21px #3A4965;
+    border-left: solid 27px #3A4965;
+}
+
+.title{
+    border-bottom: solid 10px  #3A4965;
+}
+
+.ceil{
+    padding: 28px 15px;
+    font-style: normal;    
+    font-weight: 400;
+    line-height: 16px;
+    color: #484848;
+}
+
+ .ceil_wh{
+    border: 2px solid #E3E3E3;
+    background-color: #E3E3E3;
+}
+
+.ceil.gr{
+    border: 2px solid #F2F2F2;
+    background-color: #F2F2F2;
+}
+
+.choose{
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: #484848;
+}
+
+.pricing{
+    margin-top: 3px;
+    font-size: 20px;
+}
+
+.img{
+    text-align: center;
+    margin: 26px 50px 15px 50px;
+    display: block;
+}
+
+.icon-text{
+    text-align: center;
+    font-size: 24px;
+}
+
+.price-buy{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.standart{
+ text-align: center;
+ font-style: normal;
+ font-weight: 700;
+ font-size: 24px;
+ line-height: 28px;
+ color: #FFFFFF;
+}
+
+.ultimate{
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.premium{
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.price{
+    padding: 4px 0 13px 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 28px;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.sup{
+ position: absolute;
+ font-style: normal;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 28px;
+ left: 50px;
+ top: -2px;
+}
+
+.per-month{
+ position: absolute;
+ left: 76px;
+ top: 10px;
+
+ font-style: normal;
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 28px;
+ text-transform: uppercase;
+ color: #FFFFFF;
+}
+
+.btn{
+    padding: 8px 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #414141;
+    margin-left: 26px;
+    margin-bottom: 23px;
+    border: none;
+    border-radius: 4px;
+    transition: 0.4s;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.27);
+}
+
+.detail{
+    margin-top: 5px;
+}
+
+.green_ceil{
+    text-align: left;
+    background-color: #89C331;
+}
+
+.red_ceil{
+    text-align: left;
+    background: #F04A56;
+}
+
+.blue_ceil{
+    text-align: left;
+    background: #20807C;
+}
